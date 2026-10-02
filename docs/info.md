@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-verilogs
+verilogs, test
 
 ## How to test
-my favorite colors
+my favorite colors, 
 
 
 ## External hardware
-nothing..
+nothing.. 
