@@ -12,8 +12,8 @@ You can also include images in this folder and reference them in the markdown. E
 verilogs
 
 ## How to test
-pantalla de colores púrpuras
+my favorite colors
 
 
 ## External hardware
-nada extra
+nothing..
